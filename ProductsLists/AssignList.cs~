@@ -10,7 +10,7 @@ namespace ProductsLists
         public static List<Product> products = new List<Product>();
         public static dynamic productProperties = new ExpandoObject();
 
-        public static void AddList()
+        public void AddList()
         {
             Console.WriteLine("\n\t Product Description\n=======================================================================\t");
 
@@ -24,7 +24,6 @@ namespace ProductsLists
         }
         public static void ProductList()
 	    {
-           
             foreach (Product p in products)
             { 
 
@@ -37,7 +36,6 @@ namespace ProductsLists
         }
         public static void ProductName() 
 	    {
-           
             foreach (Product p in products)
             {
 
