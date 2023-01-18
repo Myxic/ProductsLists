@@ -1,0 +1,15 @@
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/ProductsLists/ProductsLists/bin/Debug/net6.0/ProductsLists
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/ProductsLists/ProductsLists/bin/Debug/net6.0/ProductsLists.deps.json
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/ProductsLists/ProductsLists/bin/Debug/net6.0/ProductsLists.runtimeconfig.json
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/ProductsLists/ProductsLists/bin/Debug/net6.0/ProductsLists.dll
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/ProductsLists/ProductsLists/bin/Debug/net6.0/ProductsLists.pdb
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/ProductsLists/ProductsLists/obj/Debug/net6.0/ProductsLists.csproj.AssemblyReference.cache
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/ProductsLists/ProductsLists/obj/Debug/net6.0/ProductsLists.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/ProductsLists/ProductsLists/obj/Debug/net6.0/ProductsLists.AssemblyInfoInputs.cache
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/ProductsLists/ProductsLists/obj/Debug/net6.0/ProductsLists.AssemblyInfo.cs
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/ProductsLists/ProductsLists/obj/Debug/net6.0/ProductsLists.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/ProductsLists/ProductsLists/obj/Debug/net6.0/ProductsLists.dll
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/ProductsLists/ProductsLists/obj/Debug/net6.0/refint/ProductsLists.dll
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/ProductsLists/ProductsLists/obj/Debug/net6.0/ProductsLists.pdb
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/ProductsLists/ProductsLists/obj/Debug/net6.0/ProductsLists.genruntimeconfig.cache
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/ProductsLists/ProductsLists/obj/Debug/net6.0/ref/ProductsLists.dll
