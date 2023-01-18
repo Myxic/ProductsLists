@@ -48,7 +48,34 @@ namespace ProductsLists
                 Console.WriteLine($"{productProperties.Id}\t Name=>{productProperties.Name}");
             }
         }
-     
+
+        public static void ProductQuantity()
+        {
+
+            foreach (Product p in products)
+            {
+
+                productProperties.Id = p.Id;
+                productProperties.Quantity = p.Quantity;
+
+
+                Console.WriteLine($"{productProperties.Id}\t  Quanitity=>{productProperties.Quantity}");
+            }
+        }
+        public static void ProductPrice()
+        {
+
+            foreach (Product p in products)
+            {
+
+                productProperties.Id = p.Id;
+                productProperties.Price = p.Price;
+
+
+                Console.WriteLine($"{productProperties.Id}\t Price=>{productProperties.Price}");
+            }
+        }
+
     }
 }
 
