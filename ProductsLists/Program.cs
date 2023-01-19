@@ -8,7 +8,7 @@ class Program
     static void Main(string[] args)
     {
       Start: AddList();
-        Console.WriteLine("What do you want to display =>  Name, Quantity, Price, Category , OrderCount OR ALL? \n 0 to Exit");
+        Console.WriteLine("What do you want to display =>  Name, Quantity, Price? \n 0 to Exit");
         string input = Console.ReadLine();
 
         switch (input.ToUpper())
